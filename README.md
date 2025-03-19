@@ -1,2 +1,1 @@
-# dsa-learn
-A repository to practice solving Data Structures and Algorithms questions to better prepare for job applications. The language used will be C++.
+A collection of C++ solutions for Data Structures and Algorithms (DSA) problems to improve coding proficiency for job applications.
